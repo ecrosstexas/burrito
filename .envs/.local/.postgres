@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=burrito
+POSTGRES_USER=sDdEQcYNWIPpLtFVAreZZykmSZjabqiK
+POSTGRES_PASSWORD=LJEW5iHNm0JexZGAUX8nuMSt5u9zxMeIbsapXZNwfKeYiNruRQDvLYVgvi8awZSJ
